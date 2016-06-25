@@ -32,7 +32,7 @@ RUN mkdir /data && mkdir /data/hls
 # Expose ports.
 EXPOSE 80
 EXPOSE 443
-EXPOSE 1395 
+EXPOSE 1935 
   
 # Define working directory.
 WORKDIR /usr/local/nginx
