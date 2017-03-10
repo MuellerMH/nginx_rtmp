@@ -1,4 +1,4 @@
-# ngionx_rtmp #
+# nginx_rtmp #
 * Welcome
 
 ### What is this repository for? ###
